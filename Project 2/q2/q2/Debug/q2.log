@@ -1,0 +1,4 @@
+﻿  ex2_q2.c
+C:\Users\koren\source\repos\Advanced C\Project 2\q2\q2\ex2_q2.c(50,16): warning C4101: 'id_num': unreferenced local variable
+C:\Users\koren\source\repos\Advanced C\Project 2\q2\q2\ex2_q2.c(171,9): warning C4101: 'j': unreferenced local variable
+  q2.vcxproj -> C:\Users\koren\source\repos\Advanced C\Project 2\q2\Debug\q2.exe

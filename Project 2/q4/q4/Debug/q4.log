@@ -1,0 +1,9 @@
+﻿  ex2_q4.c
+C:\Users\koren\source\repos\Advanced C\Project 2\q4\q4\ex2_q4.c(35,30): warning C4101: 'total4': unreferenced local variable
+C:\Users\koren\source\repos\Advanced C\Project 2\q4\q4\ex2_q4.c(94,22): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\koren\source\repos\Advanced C\Project 2\q4\q4\ex2_q4.c(132,27): warning C4305: '=': truncation from 'int' to 'char'
+C:\Users\koren\source\repos\Advanced C\Project 2\q4\q4\ex2_q4.c(155,29): warning C4305: '=': truncation from 'int' to 'char'
+C:\Users\koren\source\repos\Advanced C\Project 2\q4\q4\ex2_q4.c(179,29): warning C4305: '=': truncation from 'int' to 'char'
+C:\Users\koren\source\repos\Advanced C\Project 2\q4\q4\ex2_q4.c(182,29): warning C4305: '=': truncation from 'int' to 'char'
+C:\Users\koren\source\repos\Advanced C\Project 2\q4\q4\ex2_q4.c(95,6): warning C4101: 'token_ptr': unreferenced local variable
+  q4.vcxproj -> C:\Users\koren\source\repos\Advanced C\Project 2\q4\Debug\q4.exe
